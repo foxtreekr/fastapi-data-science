@@ -1,0 +1,12 @@
+MacOS: How to start or stop Docker
+    1. View
+        launchctl list | grep docker
+
+    2. Start up
+        Method 1 - launchctl start com.docker.docker.port
+        Method 2 - open /Applications/Docker.app
+    
+    3. Stop
+        launchctl stop com.docker.docker.port
+
+1. pip install databases[sqlite]
