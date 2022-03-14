@@ -14,3 +14,6 @@ Q : Git Repository에 있었던 프로젝트를 다 지워버리고 그 전에�
     Error => ! [rejected]        main -> main (fetch first) 
 A : 강제 Push
     cmd => $ git push origin +master
+
+
+pip install -r requirements.txt
