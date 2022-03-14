@@ -6,8 +6,8 @@ git branch                                      // 현재 브랜치명 확인
 git branch -m [현재 브랜치명] [변경될 브랜치명]
 git branch -M [되고싶은 브랜치명]
 git remote -v                                   // 연결된 원격저장소 확인
-git remote rm orign                             // 이미 존재하고 있는 원격저장소 삭제
-git remote add orgin [깃헙 레포지토리 주소]     // 원격저장소 연결
+git remote rm oriign                             // 이미 존재하고 있는 원격저장소 삭제
+git remote add origin [깃헙 레포지토리 주소]     // 원격저장소 연결
 git push orgin main
 
 Q : Git Repository에 있었던 프로젝트를 다 지워버리고 그 전에껄 지우고 새로운 프로젝트를 푸쉬하려했는데 푸쉬가 안된다!
